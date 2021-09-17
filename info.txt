@@ -1,0 +1,20 @@
+-- PASOS PAR SUBIR UN ARCHIVO A GITHUB -- 
+
+1- Crear el repositorio en github
+2- Crear el repo en nuestro proyecto 
+  - git init -> crea un repo local en nuestra pc 
+
+3- Conectar nuestro repo local con github 
+  - Copiar la primer linea de donde dice "...or push..."
+
+Despues del paso 3, nuestro repo local y nuestro repo en github ya se conocen
+(Todavia no hay archivos)
+
+4- Chequear el estado de los archivos
+  - git status 
+
+5- Añadir los archivos a github 
+  - git add . (el punto, añade todo lo que haya en nuestro proyecto)
+
+6- Chequear el estado de los archivos
+  - git status
